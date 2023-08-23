@@ -6,7 +6,7 @@ The application visualizes an array of unsorted integers as bars. Each bar has a
 
 The following algorithms have been implemented into the application:
 
-Insertion Sort
-Selection Sort
-Bubble Sort
-Merge Sort
+- Insertion Sort
+- Selection Sort
+- Bubble Sort
+- Merge Sort
