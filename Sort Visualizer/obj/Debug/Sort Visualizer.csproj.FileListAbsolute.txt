@@ -1,0 +1,11 @@
+C:\Users\Ryan Huang\Desktop\Projects\Sort Visualizer\Sort Visualizer\bin\Debug\Sort Visualizer.exe.config
+C:\Users\Ryan Huang\Desktop\Projects\Sort Visualizer\Sort Visualizer\bin\Debug\Sort Visualizer.exe
+C:\Users\Ryan Huang\Desktop\Projects\Sort Visualizer\Sort Visualizer\bin\Debug\Sort Visualizer.pdb
+C:\Users\Ryan Huang\Desktop\Projects\Sort Visualizer\Sort Visualizer\obj\Debug\Sort Visualizer.csproj.AssemblyReference.cache
+C:\Users\Ryan Huang\Desktop\Projects\Sort Visualizer\Sort Visualizer\obj\Debug\Sort Visualizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryan Huang\Desktop\Projects\Sort Visualizer\Sort Visualizer\obj\Debug\Sort_Visualizer.Properties.Resources.resources
+C:\Users\Ryan Huang\Desktop\Projects\Sort Visualizer\Sort Visualizer\obj\Debug\Sort Visualizer.csproj.GenerateResource.cache
+C:\Users\Ryan Huang\Desktop\Projects\Sort Visualizer\Sort Visualizer\obj\Debug\Sort Visualizer.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Huang\Desktop\Projects\Sort Visualizer\Sort Visualizer\obj\Debug\Sort Visualizer.exe
+C:\Users\Ryan Huang\Desktop\Projects\Sort Visualizer\Sort Visualizer\obj\Debug\Sort Visualizer.pdb
+C:\Users\Ryan Huang\Desktop\Projects\Sort Visualizer\Sort Visualizer\obj\Debug\Sort_Visualizer.btnReset.resources
